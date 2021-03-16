@@ -1,0 +1,10 @@
+{
+    "glossary": {
+        "title": "example glossary",
+	"array": [
+		"item 1",
+		"item 2",
+		"item 3"
+	]
+    }
+}
